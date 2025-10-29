@@ -1,7 +1,7 @@
 # full_stack_project
 
 DENTAL SCAN ANALYZER
-
+Note: first extract the zip file by downloading the raw option after downloading give extract then the project will in two different folder of frontend and backend.
 Step 1:Open Intelij.
 
 Step 2:Give Run in that Intelij.
