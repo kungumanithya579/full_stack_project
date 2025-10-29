@@ -3,6 +3,7 @@
 DENTAL SCAN ANALYZER
 
 Step 1:Open Intelij.
+
 Step 2:Give Run in that Intelij.
 Step 3:Wait for some tie it will take time to run.
 Step 4:Open the vs code and open the terminal.
